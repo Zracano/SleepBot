@@ -27,7 +27,6 @@ Each sensor collaborates to provide a comprehensive understanding of the sleepin
 
 The software is the brain of the SleepBetter Bot, learning and adapting to individual sleep patterns and preferences.
 
-Software Architecture
 
 ## Milestones
 
